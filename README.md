@@ -1,2 +1,2 @@
-# unix
+# Unix
 Scripts Unix pour l'enseignements
